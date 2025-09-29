@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.2"
     },
-    "CreationDate": "2025-09-29T03:25:11-03:00"
+    "CreationDate": "2025-09-29T18:54:40-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -19,7 +19,7 @@
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
-    "Finish": "HAL SnPb"
+    "Finish": "None"
   },
   "DesignRules": [
     {
